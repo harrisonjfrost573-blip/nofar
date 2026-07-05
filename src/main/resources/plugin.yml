@@ -1,0 +1,6 @@
+name: NoFarFireworks
+version: 1.0.0
+main: com.frostyy.nofarfireworks.NoFarFireworks
+api-version: '1.21'
+author: Frostyy
+description: Blocks firework rocket use more than 12 million blocks from 0,0.
